@@ -1,3 +1,4 @@
+import "./Global.css";
 import StaffNavbar from "./Components/Navbar/StaffNavbar";
 import "./Global.css";
 function App() {
