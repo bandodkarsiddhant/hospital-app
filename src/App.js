@@ -1,7 +1,5 @@
-import logo from "./logo.svg";
-import "./App.css";
 import StaffNavbar from "./Components/Navbar/StaffNavbar";
-
+import "./Global.css";
 function App() {
   return <StaffNavbar />;
 }
